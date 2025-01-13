@@ -1,0 +1,1001 @@
+Bioink,Layer Height (mm),Speed (mm/s),Pressure (PSI),Temperature (°C),Needle,Crosslinking,Print Quality
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4246714153011233
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.861173569882881
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.564768853810069
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.102302985640803
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.926584662527666
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.076586304305081
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.25792128155074
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.976743472915292
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.853052561406505
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.9292560043585967
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.303658230718757
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9034270246429743
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.424196227156603
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.70867197553422
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.2025082167486967
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.818771247075903
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.398716887966557
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.981424733259527
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8591975924478787
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.95876962986647
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.246564876892155
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.877422369951347
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.9067528204687925
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.732525181378654
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.295561727547483
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9610922589709865
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.284900642257767
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.937569801834567
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3149361310081193
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.845830625020672
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.439829338777061
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.135227818450893
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9486502775262062
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.994228907104409
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.182254491210319
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.777915635002898
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.920886359500476
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.6790329876120222
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.21718139511016
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9696861235869123
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.47384665799954
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.917136828118995
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.363435171761176
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.844889630441071
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.352147800963257
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.878015579160529
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.903936122904021
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.20571222262189
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.134361828956846
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.723695984463728
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.93240839693948
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8364917719583684
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.282307799969406
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.011167628884087
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.503099952249595
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.99312801191162
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.2910782476777363
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.8440787624148784
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.533126343140356
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.047554512712235
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.902082576215471
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.081434102333619
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.989366502599397
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.780379337591933
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.98125258223942
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.010624002857082
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.342798987841967
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.0503532897892023
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.436163602504763
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.835488024539487
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.411139560550841
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.028803656646597
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.496417396089004
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.106464365581401
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.688025489591025
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.182190250437522
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.108704706823817
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.870099264953414
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.909176077653551
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.6762431085399108
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.32803281121625
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9857112571511746
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.547789404474152
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.848172978172634
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.294150639710681
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.824824295641546
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.591540211770207
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9828751109659684
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8970239796232957
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.151326743311335
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.109707754934803
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.99686449905329
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.829794690612265
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8422337853402233
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.310789184686787
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.803648505186788
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.429612027706455
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.926105527217988
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.375511345664246
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.851541286662485
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.358462925794958
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9079354677234637
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9157285483473228
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.019772273077837
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.0838714288334
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.940405085681455
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,5.088618590121054
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8924577812831838
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.375755039072278
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9425554084233831
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.208122878470096
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.897348612455076
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.381023020994103
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.121324211248528
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.480763903521888
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.980154734233361
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9465288230294755
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.983132196238046
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.214282281451501
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.975193303268679
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.979103194704305
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.784061254520526
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.49027943109361
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8098148937207719
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.458685709380024
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.119045562580997
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.2759463674869314
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.818370227039723
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.509965136508765
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8996524345883796
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.7949336568933862
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.106856297480602
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.993769628627389
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.947359243063518
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.80805757657662
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.029993440501754
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.271674670766377
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9177938483794323
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.481351721736967
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.7769135683566
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.397745993460413
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.005714275428243
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.339251676543878
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.96846338585323
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.975988279424842
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.17818228717773
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.976304928912192
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.767954338691572
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.95219415656169
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.9046984673233185
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.37504928503459
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9846448209496976
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.331997527842148
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.9232253697161
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4043072473298683
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.803564858197364
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.686577451114475
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9973832920911785
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.830869650279735
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.165655360863383
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.002531832977267
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.978708460374246
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,5.015859557900741
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.792931768164829
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.446337612924435
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9912780926936497
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.48220601599945
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.089679298265395
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.350461188399713
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.799626383564251
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.411048557037448
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.868418971503456
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9422898290585895
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.134115197481664
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.127669079933002
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.982718324903603
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.901300189187791
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.0203534077157315
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.323534316676206
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.222016916658962
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.462566734776498
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.81428424435837
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.267910750193889
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.923247241524319
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.477653721467416
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.021400049409209
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9973237624573543
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.092717108734313
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.015320628193159
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.748515277531414
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.855348504793298
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.9606398794323474
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.371409374413023
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.825426122128801
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.417318092585116
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.938531737972884
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.286614256379887
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.890372510594553
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.5058208718446
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8357029702169374
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.985778736034828
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.156078452636823
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.208305124317528
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.00538020520349
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.762233063204291
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.781217496008488
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.401503526720866
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.0013785950912206
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.451504768630603
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.28527314906547
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4320890510693167
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.98855656401806
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.59540017634932
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.015139125130579
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.918473075535965
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.175896922049326
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.022717478546243
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.876318139326
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.85146364521709
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.883187413938632
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.581465856667354
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.7632734807408252
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.46862601903745
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.738728412881034
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3278068134210566
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.983895059696737
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.506428001909546
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.842225522207069
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.878469629074003
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.167959774893466
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.026963336828286
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.921645858958199
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.904557183990382
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8098399652394184
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.564394408932532
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.013391902231801
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.197485741334237
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.918645431476943
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.308821353523161
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.960243333479623
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.42074792615673
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.93852635585331
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.000498727898045
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.186575519417012
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.979970359294422
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.866549876415906
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.852505468883905
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.809667076742629
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.52654542402811
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9904981710960956
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.273911604566493
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.991786194705476
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.5872156197012632
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.9782465260551145
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.348063003404599
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9015765927133748
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.076691114918662
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.029233053438121
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.144381942814622
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.977463405342935
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.807306952842192
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.86904746439382
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.025873265993095
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.847561235866571
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.374743184860684
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.775221681803515
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.5382411303931636
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.731985862203937
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.455995551330302
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9630740577286088
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.094127328906612
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.956413784882056
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.216316375215495
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.901023306101958
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.801849134895205
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.921210347426327
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.369905969557347
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8899783122841205
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.406980208499
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.861468640313824
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3863517345251246
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.941213067452105
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.658601681614535
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.826218450117315
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.163303337465626
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.90479122004775
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.084821490496441
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.958831720648458
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.928099186773504
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8127300480179405
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.329187774964275
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9006999065341166
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.34106352430558
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.984960209702102
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4107015485965047
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.805709040473935
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.589959987543326
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9807299520876605
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.031286211883896
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.16296288419236
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.017100498907793
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.843981895980303
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.974729360512327
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.9360370265433464
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.347909840603588
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9617327383308782
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.52776648957884
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.840842861116414
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.429709738117004
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.854780734756611
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.478231879677278
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.059877685198718
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.032541634898803
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.181350963600064
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.230547880715433
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.902100384163276
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.968195297129497
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8439733243406544
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.382416635248845
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9369856945632316
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.40969959649927
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.95951570254369
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.2931779316766527
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.084238727568546
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.39939826185003
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8285811387212263
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.065811087350006
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.179166269396294
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.162411981705215
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.962834550926429
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.898775322715309
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.785274562851417
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.357580455819374
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8822838288487889
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.497511973341773
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.885294261849786
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.292450280320749
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.842861415834701
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.541293145427563
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8936275447196023
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8677779604433566
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.12436872114919
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.124496657110871
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.849305682462887
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.852896169438168
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8982049937357637
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.20519156585027
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8092536225623443
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.328155577874757
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.878655284828813
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4060907565598004
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.0225356216949555
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.585765962320203
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.934006147003657
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.948098379209731
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.99974706353622
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.09814868640076
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.871134136107987
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.932271856033809
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.792276905644768
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.401934651424117
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.1032738913002578
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.389123985154313
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.940171172209894
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4440143991711114
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.834877952811416
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.522409248181042
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9512592400781794
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.959767609854883
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.022699021614454
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.102451017425894
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.949799829124546
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,5.045114360779505
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.9709270826085206
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.565318245751158
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.873265243711195
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.487232063672067
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.918334200573835
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.593980293321767
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.794170171464485
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.416027815781922
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8900607354555974
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.737610427569019
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.047424497831923
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.02408673384463
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.915039378647622
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.934175597577716
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.0626170839215887
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.445042383818606
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8923096344337595
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.310158532865163
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.94919191715065
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.2429766792979358
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.058145876585435
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.61794401207213
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.903082434789529
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.778686547090912
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.23538723741654
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.088546015474737
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.023781631197346
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.740557234120564
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8150624977046226
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.35052436997182
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9546980593764742
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.354993452852074
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.96228499323475
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.2682379570617406
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.86076205149787
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.51202956317119
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.001443883405875
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.021161487808889
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.987535790816212
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.946588582926438
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.027767682189852
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.933231401197959
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.800151346344345
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.505115197552254
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.961567463429286
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.517929718406382
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.90675184814101
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.5810747924881987
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.050534084244321
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.475103585152093
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.047157095095435
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.014537594958514
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.236863155753234
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.00350765394199
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.968605145999843
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,5.005842448684959
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.6991260513576885
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.231674148733426
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.74607678222399
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.373059316555544
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.971754225579595
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.525235705209603
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.882409478041978
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.662861554557129
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8119898541785107
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.7796617560644843
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.094445230110338
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.13840654489393
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.896730525190591
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.693255789996012
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.866087996048721
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.219553049949518
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.0169672548830038
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.436659824609684
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.806012021367263
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3236133082663306
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.769078647811105
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.493732090272683
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.045514232050124
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8514273953664455
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.150404651551785
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.046974238162756
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.820712716773766
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.8892969640045445
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.7714757677580626
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.294635069465283
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8302122107411152
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.596472513291637
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.903526355197172
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3050274492007414
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.896397991073422
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.488767195030917
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9279030400466772
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.011416670004342
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.175750771004731
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.046949885238947
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.842418175935533
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.872494830284836
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.6448078835264415
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.198480893780147
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.0866874267444526
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.564496771350125
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.87509639604436
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4326556963055768
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.906125015454354
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.807888080845524
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.061957491143457
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.937208240851923
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.004445955939957
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.939355367974242
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.920346363586722
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.82436492547157
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.7327746290402324
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.285342711575748
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8418451996385605
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.568714163507256
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.988163975694945
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.374202735868338
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.022994413889003
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.507736830764761
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8638715798671734
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.1023124077269655
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.153891004368466
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.996275384567355
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.88096613219164
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.812438174661525
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.7367200269035665
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.442617754753165
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.140941664047013
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.260143242618085
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.956296923669054
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3099357430878174
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.82628746162353
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.440760607576113
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8636009230320183
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9548521627944826
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.016904988358895
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.127045682577984
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.894976189055086
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.876105195313359
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.7842436337958403
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.292322866943167
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.0255391225825754
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.450091718762437
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.802244475520144
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3849332305429227
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.9501387123371785
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.333059471887863
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.004336019237993
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.883737624105415
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.157059866859315
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.023674084345748
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.719511789933549
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.737245756211684
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8798084946661384
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.37597225017215
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.859568337489559
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.463859245877735
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.733847993773104
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.368392020135268
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.753898380023754
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.434816389219785
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.954739867131641
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8639586634716045
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.061544445577017
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.200629280921444
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.842310813047686
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.983569211206515
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.7620293145342383
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.40298041779153
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.09415686206579
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.15283554998727
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.820310474452953
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.432707212718054
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.854695461395701
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.53711458733713
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.889601481328418
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9586589787472897
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.084432276460792
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.21677820616598
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.925442084330122
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.93376026620752
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.833812303387753
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.30123937759275
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.906744181218038
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.43944521423783
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.857901551917973
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.403977485689641
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.082540079864544
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.58711247034317
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9173976467832157
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.070121392216394
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.059192462697844
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.896187546482214
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.79919136890826
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.712920807897415
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.839848651595869
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.351841837918958
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.1176437312275285
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.432692737376414
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.87808994711911
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.457940558118349
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.653886469099212
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.523561455810857
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.027086519388696
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8021413754220155
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.214375404320693
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.13384964074944
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.85847120860992
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.963278186610629
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.1020692857804395
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.36818662550585
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9748220586300336
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.354063910045973
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.81501556305352
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4580335816544245
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.789391617409113
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.50715662372194
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.902234255323488
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.997897982574639
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.133366210528694
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.203753994425789
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.848998360114525
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.873012506470663
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.7771236284217693
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.305570673992392
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9877300493044852
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.475698861664533
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.807783467582237
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.461960592010566
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.010563785880495
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.54134349032237
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.1376795812558065
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8726210800896426
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.975534529668858
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.922127975109571
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.049604431148918
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.9654365656354065
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8694415329089544
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.377996862631985
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8374510952701624
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.644575197961682
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.91292211819752
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.385939479460489
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.947576662389869
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.54810092317367
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.972388402427913
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8709525544554686
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.147146835713599
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.288202449647503
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.034542004615497
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,5.05931866266394
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8238784323568815
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.251039517974142
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.937421307990035
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.405572491228867
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.009419151847094
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.205753537028518
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.027955031946061
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.484199210142101
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9073118930052577
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.848789562473983
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.934514332813423
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.18231705839619
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.907331796718841
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.771003910025895
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.7454921227936384
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.31642153007099
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.1169021525289393
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.374040864863638
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.749685704688186
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3504256935914056
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.847727643025233
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.230311335705842
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9445705133482187
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.926906546979132
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.16962063648134
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.284895609494534
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.012656502954776
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.873111130944517
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.764347409125833
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.607335980324986
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9559218434014487
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.401392929191292
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.897587491289
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3948084760767854
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.860563958807606
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.442633799311976
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8953141058759604
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9467246729784
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.045657522886623
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.028715421732283
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.91064302276919
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.874502278257915
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.025399298858269
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.0849030191607
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.0591506851922463
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.52460851924976
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.692660976759182
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.340731240591965
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.83785591340042
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.359248830528218
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.872218331240912
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.838942415453417
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.275227044342362
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.193567839314746
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.027155509499416
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.972167206404324
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.762094822878277
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.297547973372023
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9989374561227917
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.277787219110802
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.97129984301724
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3509674601841866
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.83751791924504
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.571095996820349
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.994426331148604
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.913903383418092
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.215932980336424
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.99189366724001
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.961593560694427
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.959310125796839
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8440453560686008
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.382613302224215
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8248886423614696
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.49240270192069
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.8815097863557
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.322727697948096
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.979900922583689
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.429565630945724
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8091538703636436
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.7943370826476093
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.160600995134564
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.971957064750372
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.075479418198437
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.691807059211628
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.044645636829004
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.371101746720264
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9403286888129607
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.345508091319104
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.939913611435205
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3712365297575153
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.985330188201652
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.511422764866204
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9650301761461875
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.913638778778614
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.094305437627893
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.130780176889205
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.728983160734337
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.765181457789429
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.9493264094022713
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.367086543812796
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.931601666364732
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.40184339330654
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.934758170536167
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.321024031969064
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.7971695274597685
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.519584525509767
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8521627222384964
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.990825275571447
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.929741639576216
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.202915563732564
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.947259748241304
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.9256029734313875
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.9732690983945513
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.51654744444626
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.051437006501813
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.215912576866835
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.77204230332643
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.312518142230432
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.877609105021083
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.551765902046911
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.877425618684653
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9686766764477075
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.024461706764667
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.038848219700805
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.759333890315178
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.80767667538891
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.7398315394383665
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.252412674702267
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.055364179660784
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.305060111116806
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.163238206483737
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4243317900880887
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.893483612369487
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.414164221981878
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.020030987940899
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8924362173762224
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.112200981464536
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.35600845382688
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.890394010027535
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,5.014927332628568
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8046823574874113
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.346501150950306
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.127080063563551
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.337303294221222
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.081244855799692
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.4457751935455474
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.818753322410573
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.563240773905552
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.047255444962673
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.012180996221719
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.942977528010953
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.027286282417514
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.87524813644485
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.892556657089996
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.937067209755068
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.367770100093328
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8164655641289897
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.438019785100593
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.96105857452838
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.430979044793104
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.983078072555462
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.583392215454891
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9959180079228434
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.942983428854135
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.9339039066484
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.142961821913259
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.92076876871631
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.927157883719538
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.747325142417969
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.241894345959174
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.05531528533329
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.396044484614333
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.968150069737263
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.377831837613046
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.877975613949575
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.5938283805976
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.898395527178262
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.959612077694098
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.053772471129495
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.056550377256768
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.869082787653136
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.922213377163372
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.827125137833652
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.475575612557353
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8605392697780496
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.381312835583863
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.85602689417258
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.5196977884353733
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.894655477651157
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.603184453946863
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8014439626963026
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9767050265869255
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.188963079562344
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.108228398927542
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.006548037506535
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.8482711549899635
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.015934744018558
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.579889812361927
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.913716143956034
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.35544974785992
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.045338447711767
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.5329572145730714
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.822713997284673
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.457981318290415
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.921821539113949
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.815554948896572
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.00813480535158
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.999585923324792
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.823220243489587
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.896531511261323
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.898421473253652
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.505050049281408
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8501645959261208
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.498432239847656
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.878601115577446
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3700536290347567
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.942481949216661
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.38772779784377
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.988240974618405
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9666452208213054
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.149245126400814
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.128916864390781
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.14553001399109
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.836226001574869
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.821900304499818
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.287685947357524
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.8944522880839745
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.33626128726935
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.018901653110753
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.5170504247989856
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.817925370625052
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.416764442689576
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.99714155563864
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.8947776955719027
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.16329318177555
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.12029230208513
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.748425588500277
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,5.054750520133006
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.054587767309552
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.28872113095156
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9112298440064015
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.42858653907249
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.9334456789987
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.440854427267283
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.076020453876635
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.482305277250594
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.8701702755461542
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.812068077198547
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.026906996005808
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.09668730271262
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.07945578635178
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.848238870096383
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.89737879516389
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.348357710392726
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.0688393273448082
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.65269324258736
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.846913122707967
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.326056055748178
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.979416087706907
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.568189148962631
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.134670732573603
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.008392818532596
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.064070790921294
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.15906548306923
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.010870358058291
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.982048218119737
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.92572740311073
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.456667468958916
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.066929559044567
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.53821589910375
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.964870988758964
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3582881919683145
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.889671368643333
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.620650896650835
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.868306432901276
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9868673308872897
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.060666118767264
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.102874482293482
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.02784518626073
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.919109906801991
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.879643654815615
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.214014385902008
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.024625356602722
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.464548418114106
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.116325472330544
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.3442221765047
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.896915032766394
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.524938368371075
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.107745327976347
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9404704467613043
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.127902152577034
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.160789650971653
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.918660912315636
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.855356638544947
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8944089992898308
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.45736317498598
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.847348470058894
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.413296967414688
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.82998791850608
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.494504662892484
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.722681309521622
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.444107815272842
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.9877211875064518
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.106552402923434
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.0934249738927
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.04448004733068
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,10.088115706944059
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.755198609958376
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.655119404337992
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.394001445005333
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.899794577564739
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.297876718286926
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.970835644729934
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.39938007137712
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.818592136926327
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.37196956013291
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.037245732828014
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",4.015020117795866
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.090082413622062
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.284663699604767
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.792991523367386
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.747447482907527
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8058091930118754
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.34544139836445
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.9743339449322692
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.375876394214366
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.935205539651427
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.249846057580956
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.019376460407326
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.491784882160744
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.0617295831588125
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9842725346377703
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.145675321915379
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.15697672802322
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.944770856001732
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.964272275986755
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,3.007915253013243
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.369652116970148
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",2.0209003757588513
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.391026430571277
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,18.044011721544948
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.307360769794073
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),5.055094043291081
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.495984204935565
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.806922489788195
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9628104414910785
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.031894834252512
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.184064354898872
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.834737602069762
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.855381656678523
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.686045926905447
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.304769368075092
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.7076120673371042
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.241609717651425
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.97604146561443
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.453580015865083
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.917545756178496
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.403302385687079
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,3.945228864385802
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.9496397460909427
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,8.984163531080746
+Hyperelastic Bone,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.250339830176715
+Collagen Lifeink200,0.2,6,40.0,4.0,1.0″ straight 30G,Thermal,9.987736229057568
+Collagen Lifeink200 (with cells),0.2,6,15.0,4.0,1.0″ straight 30G,Thermal,4.877903582617034
+Matrigel,0.15,6,5.0,4.0,0.25″ straight 30G,Thermal,2.8776885838994533
+PCL,0.1,1,100.0,100.0,Tapered metal 30G,N/A,20.370838280794757
+PEGDA,0.3,4,3.0,25.0,Tapered metal 30G,"Photo (LAP, 410nm)",1.7458265131575708
+PLGA,0.2,1,100.0,100.0,Tapered metal 30G,N/A,20.375282261747937
+Pluronic,0.2,6,80.0,25.0,0.25″ straight 30G,N/A,17.83180157520022
+Alginate (2%),0.15,6,7.5,25.0,1.0″ straight 30G,Chemical (CaCl2),3.2748379990105083
+Alginate (5%),0.15,6,15.0,25.0,1.0″ straight 30G,Chemical (CaCl2),4.846889970711405
+Carbohydrate Glass,0.2,8,60.0,110.0,Tapered metal 27G,N/A,14.679768652684952
+Gelatin,0.3,6,10.0,25.0,Tapered metal 27G,N/A,4.0140842861267005
+Gelatin Methacrylate,0.3,6,10.0,25.0,Tapered metal 27G,"Photo (LAP, 410nm)",3.89288210102172
+Graphene,0.2,10,30.0,25.0,Tapered metal 27G,N/A,9.157258278135615
